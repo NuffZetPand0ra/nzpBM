@@ -1,6 +1,8 @@
-nzpBM
-=====
+# nzpBM
+## Object oriented benchmark class to use in my [nzpLoader][] framework.
 
-NZP benchmark class
+More will come very soon!  
+I need to code now :D
 
-PHP class used to make benchmark tests in PHP scripts.
+
+[nzpLoader]: https://github.com/ "nzpLoader"
