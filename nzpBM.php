@@ -1,4 +1,5 @@
 <?php
+//Tilhører NZP!
 class nzpBM{
     private $start_time = false;
     public $duration;
