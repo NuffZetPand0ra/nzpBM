@@ -1,5 +1,6 @@
 <?php
 //Tilhører NZP!
+//MERE TEST NUUUU!
 class nzpBM{
     private $start_time = false;
     public $duration;
